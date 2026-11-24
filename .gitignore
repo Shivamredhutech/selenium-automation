@@ -1,1 +1,23 @@
-/target/
+
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+
+# Test reports
+test-output/
+allure-results/
+allure-report/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
